@@ -1,0 +1,43 @@
+{
+  "name": "2020-2021-pai-trabajo-covering-tdd-vanessa-villalba-marta-gonzalez",
+  "version": "1.0.0",
+  "description": "Package used to show the presentation's examples",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc mocha",
+    "validate": "cat codecov.yml | curl --data-binary @- https://codecov.io/validate",
+    "report": "nyc --reporter=json mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAI-ULL/2020-2021-pai-trabajo-covering-tdd-vanessa-villalba-marta-gonzalez.git"
+  },
+  "keywords": [
+    "codecov",
+    "coverage",
+    "tdd"
+  ],
+  "authors": [
+    {
+      "name": "Vanessa Valentina Villalba Perez",
+      "url": "https://github.com/vanessavvp"
+    },
+    {
+      "name": "Marta Julia Gonzalez Padron",
+      "url": "https://github.com/itsmartagonzalez"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PAI-ULL/2020-2021-pai-trabajo-covering-tdd-vanessa-villalba-marta-gonzalez/issues"
+  },
+  "homepage": "https://github.com/PAI-ULL/2020-2021-pai-trabajo-covering-tdd-vanessa-villalba-marta-gonzalez#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0"
+  }
+}
