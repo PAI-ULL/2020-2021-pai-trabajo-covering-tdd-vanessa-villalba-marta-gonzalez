@@ -10,7 +10,6 @@
 ## Code Coverage
 - [Code Coverage](https://en.wikipedia.org/wiki/Code_coverage)
 - [Everything you need to know about Code Coverage](https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-coverage/)
-- [Codecov Github APP](https://github.com/marketplace/codecov)
 - [Chai Assertion Library Documentation](https://www.chaijs.com/)
 - [Istanbul Test Coverage Tool Documentation](https://istanbul.js.org/)
 - [Mocha Documentation](https://mochajs.org/)
@@ -18,6 +17,7 @@
 ## CodeCov.io
 - [CodeCov Documentation](https://docs.codecov.io/docs/about-code-coverage)
 - [Quick Start](https://docs.codecov.io/docs/quick-start)
+- [Codecov Github APP](https://github.com/marketplace/codecov)
 - [2020 State of Open Source Coverage ](https://about.codecov.io/resource/2020-state-of-open-source-code-coverage/)
 - [13 CodeCov alternatives](https://www.topbestalternatives.com/codecov/)
 
