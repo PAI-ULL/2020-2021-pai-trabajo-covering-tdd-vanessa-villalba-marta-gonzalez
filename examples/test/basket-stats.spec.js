@@ -15,8 +15,8 @@
 const {expect} = require('chai');
 const basket = require('../src/basket-stats');
 
-const game = require('../20160502_Hawks-Pacers-game-data.json');
-const gameModified = require('../Hawks-Pacers-game-modified.json');
+const game = require('../data/20160502_Hawks-Pacers-game-data.json');
+const gameModified = require('../data/Hawks-Pacers-game-modified.json');
 
 describe('Hawks-Pacers', () => {
   it('Game ID', () => {

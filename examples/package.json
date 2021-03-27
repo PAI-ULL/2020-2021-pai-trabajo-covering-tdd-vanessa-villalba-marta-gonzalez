@@ -9,7 +9,8 @@
   "scripts": {
     "test": "nyc mocha",
     "validate": "cat codecov.yml | curl --data-binary @- https://codecov.io/validate",
-    "report": "nyc --reporter=json mocha"
+    "report": "nyc --reporter=json mocha",
+    "codecov": "curl -s https://codecov.io/bash | bash"
   },
   "repository": {
     "type": "git",
