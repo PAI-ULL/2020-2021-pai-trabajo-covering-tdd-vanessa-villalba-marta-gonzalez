@@ -1,3 +1,3 @@
 # slides
 
-Use this directory to include a copy (PDF) of the slides of your project presentation
+[Direct link](https://docs.google.com/presentation/d/11ITcFKgtHjfCNBVDaJtDVtDQ1st56OSP_DhF7hI1GCs/edit?usp=sharing) and PDF of the presentation.
