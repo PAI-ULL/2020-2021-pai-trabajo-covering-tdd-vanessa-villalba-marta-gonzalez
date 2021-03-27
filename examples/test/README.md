@@ -1,3 +1,3 @@
-# tests
+# test
 
-Use this directory to include all the tests, if any, you develop for your application.
+The test directory is home to all the tests of the application.
