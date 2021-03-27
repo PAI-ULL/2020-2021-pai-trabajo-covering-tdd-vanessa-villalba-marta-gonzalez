@@ -1,0 +1,16 @@
+{
+  "name": "country-json",
+  "version": "1.0.0",
+  "description": "Country statistics around the world",
+  "scripts": {
+    "test": "nyc mocha",
+    "report": "nyc --reporter=json mocha"
+  },
+  "author": "Marta Julia González Padrón",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1",
+    "nyc": "^15.1.0"
+  }
+}
