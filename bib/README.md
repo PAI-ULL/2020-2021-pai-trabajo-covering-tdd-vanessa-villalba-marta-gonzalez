@@ -6,6 +6,7 @@
 - [Introduction to Test Driven Development in JavaScript](https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript) 
 - [Refactoring JavaScript](https://www.jetbrains.com/help/webstorm/specific-javascript-refactorings.html)
 - [9 Benefits of Test Driven Development](https://www.madetech.com/blog/9-benefits-of-test-driven-development) 
+- [Testing - Mocha and Chai presentation repository. Adal Diaz, Oscar Moreira](https://github.com/PAI-ULL/2020-2021-pai-trabajo-testing-mocha-chai-oscarmoreira-adaldiaz) 
 
 ## Code Coverage
 - [Code Coverage](https://en.wikipedia.org/wiki/Code_coverage)
