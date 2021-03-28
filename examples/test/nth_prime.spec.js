@@ -1,5 +1,6 @@
 // Author: Adal Díaz y Oscar Moreira
 // University of La Laguna
+
 const should = require('chai').should();
 const {expect} = require('chai');
 const {prime} = require('../src/nth-prime.js');

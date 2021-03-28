@@ -1,5 +1,6 @@
 // Author: Adal Díaz y Oscar Moreira
 // University of La Laguna
+
 const {primeFactors} = require('../src/prime-factors');
 const {expect} = require('chai');
 

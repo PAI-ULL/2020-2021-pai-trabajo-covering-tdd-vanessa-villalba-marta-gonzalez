@@ -1,5 +1,6 @@
 // Author: Adal Díaz y Oscar Moreira
 // University of La Laguna
+
 const {assert} = require('chai');
 const {score} = require('../src/darts.js');
 
