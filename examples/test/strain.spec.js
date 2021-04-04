@@ -1,4 +1,4 @@
-// Author: Adal Díaz y Oscar Moreira
+// Author: Adal Díaz & Oscar Moreira
 // University of La Laguna
 
 const {assert} = require('chai');
