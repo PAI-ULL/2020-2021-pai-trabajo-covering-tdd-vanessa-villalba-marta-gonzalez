@@ -10,7 +10,7 @@ describe('Useless function', () => {
     expect(uselessFunction(1, -1)).to.equal(0);
   });
 
-  /*it('Both values are greater than 0', () => {
+  it('Both values are greater than 0', () => {
     expect(uselessFunction(1, 1)).to.equal(1);
-  });*/
+  });
 });
